@@ -14,6 +14,8 @@ $wploop = new WP_Query(
 ?>
 
 X
+Y
+Z
 
 <div class="hero-unit">
 

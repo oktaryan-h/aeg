@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<?php 
+<?php
 
 $wploop = new WP_Query(
 	array(
@@ -50,7 +50,7 @@ $wploop = new WP_Query(
 	<div class="span4">
 		<h2>Heading</h2>
 		Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-
+		<p>Hai edited by Devi Rachmawati</p>
 		<a class="btn" href="#">View details »</a>
 
 	</div>

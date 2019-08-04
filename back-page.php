@@ -54,7 +54,11 @@ X
 		Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
 		<p>Hai edited by Devi Rachmawati</p>
 		<a class="btn" href="#">View details »</a>
-
+		<h4>List of branch</h4>
+		<ul>
+			<li>Master</li>
+			<li>Feature/edit</li>
+		</ul>
 	</div>
 </div>
 
